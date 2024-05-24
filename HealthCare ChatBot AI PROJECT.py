@@ -5,8 +5,9 @@ import numpy as np
 import random
 from sklearn import preprocessing
 from sklearn.tree import DecisionTreeClassifier,_tree
-from sklearn.cross_validation import train_test_split
-from sklearn import cross_validation
+from sklearn.model_selection import train_test_split
+from sklearn import model_selection
+
 #for ignoring the warnings
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
@@ -156,4 +157,3 @@ while(flag==True):
     else:
         flag=False
         print("Healtho: Bye! take care..")    
-
