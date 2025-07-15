@@ -50,8 +50,8 @@ Powered by **AI (Artificial Intelligence)**, Healtho gives you fast, accurate, a
 We'd love to hear from you!
 Follow us for updates, news, and more:
 
-* [LinkedIn](#)
-* [Twitter](#)
+* [LinkedIn](https://www.linkedin.com/in/aashvitt-singh/)
+* [Twitter](https://twitter.com/AashvittSingh?t=b8rVAtNJWrPp0zTCPKgVrA&s=09)
 
 ---
 
